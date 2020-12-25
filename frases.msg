@@ -2,9 +2,9 @@
 
 
 apresentacao=(
-	"Meu nome é Lucifer, sou um robo criado pelo Ramone, e estou aqui para servi-lo!!"
-	"Oi sou Lucifer, você deve ser o $USER podemos ser amigos?"
-	"Me chamo Lucifer, mas não sou o tal de Morning Star da serie, sou apenas um robô hacker, em que posso ajudar??"
+	"Meu nome é Ram, sou um robo criado pelo Ramone, e estou aqui para servi-lo!!"
+	"Oi sou o Ram, você deve ser o $USER podemos ser amigos?"
+	"Me Chamo Ram, fui criado por você!!!"
 	"Calma eu não sou do mal, apenas um hacker e estou aqui para lhe ajudar, me chamo Lucifer!!"
 
 )
@@ -15,6 +15,25 @@ oi=(
 	"Ola hacker"
 	"Ola, meu amigo."
 	"Eae tudo em cima??"
+	"Eae $USER , firmeza??"
+	"Aooobaa!!!"
+	"Oba bããoo"
+)
+
+como_vai=(
+	"Tudo sim, e com você??"
+	"Estou otimo e ai?"
+	"Com certeza bem, e ti?"
+	"Tudo otimo :)"
+	"Opa, melhor agora!!"
+)
+
+fazendo=(
+	"Estou configurando meus sistemas..."
+	"Estou pensando no que te dizer kkkk"
+	"No momento estou atoa"
+	"Eu estou moscando"
+	"Nada de mais e você?"
 )
 
 
