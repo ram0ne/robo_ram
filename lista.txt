@@ -1,0 +1,26 @@
+MENSAGENS:
+
+* Oi *			>>> QUALQUER COISA + OI 
+* tudo bem * como vai *	>>> QUALQUER COISA + TUDO BEM / COMO VAI
+* boa noite *		>>> QUALQUER COISA + BOA NOITE 
+* bom dia *		>>> QUALQUER COISA + BOM DIA 
+"quem é voce"*|*"seu nome"*	>>> QUALQUER COISA + QUEM E VOCE / SEU NOME
+"santos"*|*"seu time"*|*"santos"	>>> QUALQUER COISA + SEU TIME / SANTOS
+
+SABER A DATA:
+ *"que dia é hoje"*|*"data"*|*"que dia e hoje"*	>>> QUALQUER COISA + DATA / QUE DIA É HOJE 
+
+DELETAR UM ARQUIVO:
+*"delete"*|*"apague"*|*"apaga"*|*"deleta"*	>>> QUALQUER COISA + DELETA / APAGUE / APAGA / DELETA
+
+LISTAR ARQUIVOS DE QUALQUER LOCAL:
+ *"mostre arquivos"*|*"mostra os arquivos"*	>>> QUALQUER COISA + MOSTRE ARQUIVOS / 
+
+LIMPAR A TELA:
+*limpe a tela*| *limpa a tela*			>>> QUALQUER COISA + LIMPA A TELA
+
+CRIAR UMA PASTA:
+*diretorio*		>>> QUALQUER COISA + DIRETORIO
+
+ATUALIZAR SISTEMA:
+ *"atualize"*|*"atualiza"*	>>> QUALQUER COISA + ATUALIZA / ATUALIZE
